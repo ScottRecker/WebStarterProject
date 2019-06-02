@@ -8,9 +8,13 @@
   },
   "author": "Scott Recker",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ScottRecker/WebStarterProject"
+  },
   "devDependencies": {
-    "browser-sync": "^2.26.3",
-    "gulp": "^4.0.0",
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2"
   }
 }
